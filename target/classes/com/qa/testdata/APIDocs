@@ -1,0 +1,30 @@
+  # defaults
+     RestAssured.baseURI="";
+     RestAssured.basePath="";
+                
+  
+  # Request Specification
+   - API Tests
+   - Defaults
+   - Request specification
+   - request parameters
+  
+  
+  # Response
+    - Response with groovy
+    - Response As java Object
+    - Response As Java Path
+    
+  
+  # Logging
+    - Response Logging
+    - request Logging
+     
+  
+  # Validations
+    - static validations
+    - dynamic validations
+    - Null Check
+    
+  
+  

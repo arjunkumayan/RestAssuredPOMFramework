@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1762" started-at="2020-04-06T16:54:33Z" finished-at="2020-04-06T16:54:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1762" started-at="2020-04-06T16:54:33Z" finished-at="2020-04-06T16:54:35Z">
+      <class name="com.qa.util.ExcelUtility">
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="82" started-at="2020-04-06T16:54:34Z" data-provider="getUserData" finished-at="2020-04-06T16:54:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[irina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01-01-1975]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[drina1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA['1-222-333-2323]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test address pune]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="4" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sarang]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01-01-1976]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[saran12@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA['1-222-333-2324]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test address pune]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="2" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[varun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01-01-1977]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[varun123@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA['1-222-333-2325]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test address pune]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="3" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[elina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[L]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01-01-1978]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[elina12@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA['1-222-333-2326]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test address pune]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="3" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[salina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01-01-1979]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[salinaee12@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA['1-222-333-2327]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.google.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[test address pune]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- com.qa.util.ExcelUtility -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

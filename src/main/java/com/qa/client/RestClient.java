@@ -137,7 +137,7 @@ public class RestClient {
 			break;	
 
 		default:
-			System.out.println("pleae pass the corret http method");
+			System.out.println("please pass the corret http method");
 			break;
 		}
 		

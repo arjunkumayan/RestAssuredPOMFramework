@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="1" total="9" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1762" started-at="2020-04-06T16:54:33Z" finished-at="2020-04-06T16:54:35Z">
+  <suite name="GO Rest Test Suite" duration-ms="11983" started-at="2020-06-04T07:15:23Z" finished-at="2020-06-04T07:15:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1762" started-at="2020-04-06T16:54:33Z" finished-at="2020-04-06T16:54:35Z">
-      <class name="com.qa.util.ExcelUtility">
-        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="82" started-at="2020-04-06T16:54:34Z" data-provider="getUserData" finished-at="2020-04-06T16:54:34Z">
+    <test name="Go Rest Regression Test" duration-ms="11983" started-at="2020-06-04T07:15:23Z" finished-at="2020-06-04T07:15:35Z">
+      <class name="com.qa.gorest.tests.CreateUserAPITest">
+        <test-method status="PASS" signature="createUserAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.gorest.tests.CreateUserAPITest@2bfeb1ef]" name="createUserAPIPOSTTest" duration-ms="2702" started-at="2020-06-04T07:15:24Z" data-provider="getUserData" finished-at="2020-06-04T07:15:27Z">
           <params>
             <param index="0">
               <value>
@@ -57,8 +57,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="4" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method status="PASS" signature="createUserAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.gorest.tests.CreateUserAPITest@2bfeb1ef]" name="createUserAPIPOSTTest" duration-ms="453" started-at="2020-06-04T07:15:27Z" data-provider="getUserData" finished-at="2020-06-04T07:15:27Z">
           <params>
             <param index="0">
               <value>
@@ -108,8 +108,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="2" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method status="PASS" signature="createUserAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.gorest.tests.CreateUserAPITest@2bfeb1ef]" name="createUserAPIPOSTTest" duration-ms="430" started-at="2020-06-04T07:15:27Z" data-provider="getUserData" finished-at="2020-06-04T07:15:28Z">
           <params>
             <param index="0">
               <value>
@@ -159,8 +159,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="3" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method status="PASS" signature="createUserAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.gorest.tests.CreateUserAPITest@2bfeb1ef]" name="createUserAPIPOSTTest" duration-ms="6429" started-at="2020-06-04T07:15:28Z" data-provider="getUserData" finished-at="2020-06-04T07:15:34Z">
           <params>
             <param index="0">
               <value>
@@ -210,8 +210,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.util.ExcelUtility@fd0e5b6]" name="createUser" duration-ms="3" started-at="2020-04-06T16:54:35Z" data-provider="getUserData" finished-at="2020-04-06T16:54:35Z">
+        </test-method> <!-- createUserAPIPOSTTest -->
+        <test-method status="PASS" signature="createUserAPIPOSTTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.gorest.tests.CreateUserAPITest@2bfeb1ef]" name="createUserAPIPOSTTest" duration-ms="566" started-at="2020-06-04T07:15:34Z" data-provider="getUserData" finished-at="2020-06-04T07:15:35Z">
           <params>
             <param index="0">
               <value>
@@ -261,8 +261,26 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- com.qa.util.ExcelUtility -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- createUserAPIPOSTTest -->
+      </class> <!-- com.qa.gorest.tests.CreateUserAPITest -->
+      <class name="com.qa.gorest.tests.UpdateUserAPITest">
+        <test-method status="PASS" signature="createANewUserAPIPUTTest_WithSetter()[pri:0, instance:com.qa.gorest.tests.UpdateUserAPITest@78b236a0]" name="createANewUserAPIPUTTest_WithSetter" duration-ms="7056" started-at="2020-06-04T07:15:28Z" finished-at="2020-06-04T07:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createANewUserAPIPUTTest_WithSetter -->
+      </class> <!-- com.qa.gorest.tests.UpdateUserAPITest -->
+      <class name="com.qa.gorest.tests.DeleteUserAPITest">
+        <test-method status="PASS" signature="deleteUserTest()[pri:0, instance:com.qa.gorest.tests.DeleteUserAPITest@778ca8ef]" name="deleteUserTest" duration-ms="10752" started-at="2020-06-04T07:15:23Z" finished-at="2020-06-04T07:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserTest -->
+      </class> <!-- com.qa.gorest.tests.DeleteUserAPITest -->
+      <class name="com.qa.gorest.tests.GetUserAPITest">
+        <test-method status="PASS" signature="getUserListAPITest()[pri:0, instance:com.qa.gorest.tests.GetUserAPITest@208e9ef6]" name="getUserListAPITest" duration-ms="4629" started-at="2020-06-04T07:15:23Z" finished-at="2020-06-04T07:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserListAPITest -->
+      </class> <!-- com.qa.gorest.tests.GetUserAPITest -->
+    </test> <!-- Go Rest Regression Test -->
+  </suite> <!-- GO Rest Test Suite -->
 </testng-results>
